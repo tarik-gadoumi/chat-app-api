@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/scalars/index.ts"],"names":[],"mappings":";;AAAA,yCAAkC;AAClC,2CAAoC;AAEpC,kBAAe;IACb,YAAY,EAAE;QACZ,kBAAQ,CAAC,WAAW;QACpB,mBAAS,CAAC,WAAW;KACtB;IACD,SAAS,EAAE;QACT,GAAG,kBAAQ,CAAC,IAAI;QAChB,GAAG,mBAAS,CAAC,IAAI;KAClB;CACF,CAAC"}

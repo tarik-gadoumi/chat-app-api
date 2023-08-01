@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "skipLibCheck": true,
+    "noEmitOnError": false,
     "target": "esnext",
     "module": "commonjs",
     "lib": ["es2017", "esnext.array", "esnext.asynciterable"],
